@@ -1,0 +1,54 @@
+Player,Name,Team Abbreviation,Position,Height,Weight,Age,FGM,FGA,FG Percentage
+<img src='taylor.webp' height='80'></img>,Ryan Taylor,SCW,G,6'6,190,26,9,17,52.90%
+<img src='wright-foreman.webp' height='80'></img>,Justin Wright-Foreman,ERI,G,6'0,190,23,8,13,61.50%
+<img src='miller.webp' height='80'></img>,Malcolm Miller,SLC,G-F,6'7,210,28,8,18,44.40%
+<img src='brooks.webp' height='80'></img>,Armoni Brooks,RGV,G,6'3,195,23,7,16,43.80%
+<img src='washburn.png' height='80'></img>,Julian Washburn,DEL,F-G,6'8,210,29,7,17,41.20%
+<img src='hall.webp' height='80'></img>,Tyler Hall,WES,G,6'5,209,24,7,15,46.70%
+<img src='mathis.webp' height='80'></img>,Anthony Mathis,AUS,G,6'4,175,24,6,10,60.00%
+<img src='toupane.webp' height='80'></img>,Alex Toupane,SCW,G-F,6'7,210,28,6,15,40.00%
+<img src='thomas.webp' height='80'></img>,Brodric Thomas,CTN,G,6'5,185,24,6,8,75.00%
+<img src='tucker.webp' height='80'></img>,Dakarai Tucker,IWA,G,6'5,195,27,6,16,37.50%
+<img src='marshall.webp' height='80'></img>,Naji Marshall,ERI,F,6'7,220,23,6,9,66.70%
+<img src='stauskas.webp' height='80'></img>,Nik Stauskas,RAP,G,6'6,207,27,6,18,33.30%
+<img src='milesjr.webp' height='80'></img>,Daxter Miles Jr.,FWN,G,6'3,200,26,5,10,50.00%
+<img src='hannahs.webp' height='80'></img>,Dusty Hannahs,SCW,G,6'3,210,27,5,8,62.50%
+<img src='brazdeikis.webp' height='80'></img>,Ignas Brazdeikis,WES,F,6'6,221,22,5,9,55.60%
+<img src='brownridge.webp' height='80'></img>,Jared Brownridge,DEL,G,6'3,200,26,5,10,50.00%
+<img src='jack.webp' height='80'></img>,Jarrett Jack,GLI,G,6'3,197,37,5,9,55.60%
+<img src='bowden.webp' height='80'></img>,Jordan Bowden,LIN,G,6'5,193,24,5,15,33.30%
+<img src='simmons.webp' height='80'></img>,Kobi Simmons,GBO,G,6'5,180,23,5,12,41.70%
+<img src='fitts.webp' height='80'></img>,Malik Fitts ,ACC,F,6'8,230,23,5,7,71.40%
+<img src='garrett.webp' height='80'></img>,Billy Garrett,LAK,G,6'6,210,26,4,6,66.70%
+<img src='brownjr.webp' height='80'></img>,Charlie Brown Jr.,IWA,G,6'6,199,24,4,11,36.40%
+<img src='stockton.webp' height='80'></img>,David Stockton,MHU,G,5'11,165,29,4,5,80.00%
+<img src='pemberton.webp' height='80'></img>,Elijah Pemberton,SCW,G,6'5,195,24,4,6,66.70%
+<img src='harris.webp' height='80'></img>,Jalen Harris,RAP,G,6'5,195,22,4,5,80.00%
+<img src='uthoff.webp' height='80'></img>,Jarrod Uthoff,ERI,F,6'9,220,28,4,15,26.70%
+<img src='kthomas.webp' height='80'></img>,Khyri Thomas,AUS,G,6'3,210,25,4,6,66.70%
+<img src='wigginton.webp' height='80'></img>,Lindell Wigginton,IWA,G,6'1,189,23,4,9,44.40%
+<img src='king.webp' height='80'></img>,Louis King,WES,F,6'7,205,22,4,9,44.40%
+<img src='richardson.webp' height='80'></img>,Malachi Richardson,CTN,G-F,6'4,200,25,4,9,44.40%
+<img src='frazierjr.webp' height='80'></img>,Melvin Frazier Jr.,OKL,G-F,6'5,215,24,4,9,44.40%
+<img src='buchanan.webp' height='80'></img>,Shaq Buchanan,MHU,G,6'3,190,24,4,9,44.40%
+<img src='pointer.webp' height='80'></img>,Sir'Dominic Pointer,CTN,G-F,6'6,192,29,4,8,50.00%
+<img src='alexander.webp' height='80'></img>,Ty-Shon Alexander,CTN,G,6'3,195,22,4,9,44.40%
+<img src='sneed.webp' height='80'></img>,Xavier Sneed,GBO,F,6'5,215,23,4,12,33.30%
+<img src='epps.webp' height='80'></img>,Aaron Epps,CTN,F,6'10,225,25,3,5,60.00%
+<img src='cleveland.webp' height='80'></img>,Antonius Cleveland,OKL,G,6'5,195,27,3,11,27.30%
+<img src='bjjohnson.png' height='80'></img>,BJ Johnson,LIN,F,6'6,200,25,3,13,23.10%
+<img src='bowen.webp' height='80'></img>,Brian Bowen II,FWN,F-G,6'6,190,22,3,8,37.50%
+<img src='reynolds.webp' height='80'></img>,Cameron Reynolds,AUS,F,6'7,225,26,3,6,50.00%
+<img src='barry.webp' height='80'></img>,Canyon Barry,IWA,G,6'6,205,27,3,9,33.30%
+<img src='ellenson.webp' height='80'></img>,Henry Ellenson,RAP,F-C,6'10,240,24,3,8,37.50%
+<img src='adams.webp' height='80'></img>,Jalen Adams,ERI,G,6'2,195,25,3,8,37.50%
+<img src='lecque.webp' height='80'></img>,Jalen Lecque,FWN,G,6'4,185,21,3,6,50.00%
+<img src='martin.webp' height='80'></img>,Jeremiah Martin,LIN,G,6'2,185,24,3,8,37.50%
+<img src='lin.webp' height='80'></img>,Jeremy Lin,SCW,G,6'3,200,32,3,4,75.00%
+<img src='robinson.webp' height='80'></img>,Justin Robinson,DEL,G,6'1,195,23,3,6,50.00%
+<img src='randolph.webp' height='80'></img>,Levi Randolph,CTN,G,6'6,210,28,3,6,50.00%
+<img src='mooney.webp' height='80'></img>,Matt Mooney,RAP,G,6'2,199,24,3,5,60.00%
+<img src='hinton.webp' height='80'></img>,Nate Hinton,SCW,G-F,6'5,210,22,3,3,100.00%
+<img src='franks.webp' height='80'></img>,Robert Franks,LAK,F,6'7,225,24,3,5,60.00%
+<img src='occeus.webp' height='80'></img>,Shawn Occeus,RGV,G,6'4,210,23,3,13,23.10%
+<img src='scott.webp' height='80'></img>,Trevon Scott,SLC,F,6'8,225,24,3,4,75.00%

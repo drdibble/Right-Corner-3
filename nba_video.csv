@@ -1,0 +1,137 @@
+Player,Name,Position,Age,Height,Weight,Current Team,FGM,FGA,FG%,Type,Salary,,Video
+<img src='dgreen.png' height='80'></img>,Danny Green,G,33,"6'6""",215,PHI,55,124,44.40%,Unrestricted,"$15,000,000 ",,https://www.youtube.com/embed/zCifqh7Dgg8
+<img src='robinson.png' height='80'></img>,Duncan Robinson,F,27,"6'7""",215,MIA,30,75,40.00%,Restricted,"$1,030,062 ",,https://www.youtube.com/embed/7KQwd0m312Q
+<img src='powell.png' height='80'></img>,Norman Powell,G,28,"6'3""",215,POR,30,59,50.80%,Player Option,"$10,491,264 ",,https://www.youtube.com/embed/ad6J4ZnD6sM
+<img src='green.png' height='80'></img>,Jeff Green,F,34,"6'8""",235,BKN,26,67,38.80%,Unrestricted,"$2,564,753 ",,https://www.youtube.com/embed/T_W09NzXLwA
+<img src='bullock.png' height='80'></img>,Reggie Bullock,G-F,30,"6'7""",205,NYK,25,54,46.30%,Unrestricted,"$4,100,000 ",,https://www.youtube.com/embed/ZtT9NE_Hwwo
+<img src='hardaway.png' height='80'></img>,Tim Hardaway Jr.,G-F,29,"6'5""",205,DAL,24,62,38.70%,Unrestricted,"$17,737,500 ",,https://www.youtube.com/embed/Lg1fd0CBRwY
+<img src='batum.png' height='80'></img>,Nicolas Batum,G-F,32,"6'8""",230,LAC,24,54,44.40%,Unrestricted,"$2,564,753 ",,https://www.youtube.com/embed/4oZHgtemVT4
+<img src='oubrejr.png' height='80'></img>,Kelly Oubre Jr.,G-F,25,"6'7""",203,GSW,23,63,36.50%,Unrestricted,"$15,000,000 ",,https://www.youtube.com/embed/0Kgw0FFm03E
+<img src='conley.png' height='80'></img>,Mike Conley,G,33,"6'1""",175,UTA,21,55,38.20%,Unrestricted,"$30,521,116 ",,https://www.youtube.com/embed/Y8QRcYPtWlU
+<img src='korkmaz.png' height='80'></img>,Furkan Korkmaz,G-F,23,"6'7""",202,PHI,21,39,53.80%,Unrestricted,"$1,762,796 ",,https://www.youtube.com/embed/KDdeDP-lXKw
+<img src='niang.png' height='80'></img>,Georges Niang,F,28,"6'7""",230,UTA,19,51,37.30%,Unrestricted,"$1,658,337 ",,https://www.youtube.com/embed/Z7A5upPkeFo
+<img src='burks.png' height='80'></img>,Alec Burks,G,29,"6'6""",214,NYK,18,28,64.30%,Unrestricted,"$6,000,000 ",,https://www.youtube.com/embed/366wpEyPdoY
+<img src='jackson.png' height='80'></img>,Frank Jackson,G,23,"6'3""",205,DET,18,25,72.00%,Restricted,"$1,889,178 ",,https://www.youtube.com/embed/FtHWjB1FM1A
+<img src='portis.png' height='80'></img>,Bobby Portis,F,26,"6'10""",250,MIL,17,39,43.60%,Player Option,"$3,713,575 ",,https://www.youtube.com/embed/tH7NwvrIQjw
+<img src='bazemore.png' height='80'></img>,Kent Bazemore,G-F,31,"6'4""",195,GSW,16,45,35.60%,Unrestricted,"$2,320,044 ",,https://www.youtube.com/embed/xVAprZc_YOc
+<img src='temple.png' height='80'></img>,Garrett Temple,G-F,35,"6'5""",195,CHI,16,44,36.40%,Unrestricted,"$4,767,000 ",,https://www.youtube.com/embed/d6PSqKqbfEw
+<img src='ball.png' height='80'></img>,Lonzo Ball,G,23,"6'6""",190,NOP,15,39,38.50%,Restricted,"$8,367,906 ",,https://www.youtube.com/embed/xXiAZganI2U
+<img src='mclemore.png' height='80'></img>,Ben McLemore,G,28,"6'3""",195,LAL,15,30,50.00%,Unrestricted,"$610,596 ",,https://www.youtube.com/embed/L6dsC2fOZQc
+<img src='anthony.png' height='80'></img>,Carmelo Anthony,F,37,"6'7""",238,POR,15,36,41.70%,Unrestricted,"$2,564,753 ",,https://www.youtube.com/embed/NFWEGyxT-wM
+<img src='trent.png' height='80'></img>,Gary Trent Jr.,G-F,22,"6'5""",209,TOR,15,38,39.50%,Unrestricted,"$1,306,392 ",,https://www.youtube.com/embed/884VVxnfGno
+<img src='jonesjr.png' height='80'></img>,Derrick Jones Jr.,F,24,"6'5""",210,POR,14,49,28.60%,Player Option,"$9,489,450 ",,https://www.youtube.com/embed/52vysfq42IA
+<img src='forbes.png' height='80'></img>,Bryn Forbes,G,27,"6'2""",205,MIL,14,35,40.00%,Player,"$2,395,574 ",,https://www.youtube.com/embed/YxyF-O69a5E
+<img src='markkanen.png' height='80'></img>,Lauri Markkanen,F-C,24,"7'0""",240,CHI,14,28,50.00%,Restricted,"$5,097,417 ",,https://www.youtube.com/embed/GG3xtl8IpDU
+<img src='snell.png' height='80'></img>,Tony Snell,G,29,"6'6""",213,ATL,14,27,51.90%,Unrestricted,"$11,500,000 ",,https://www.youtube.com/embed/mdqPi1XfS8w
+<img src='hart.png' height='80'></img>,Josh Hart,G,26,"6'5""",215,NOP,14,37,37.80%,Restricted,"$2,118,750 ",,https://www.youtube.com/embed/w4Phkd-f4vE
+<img src='caruso.png' height='80'></img>,Alex Caruso,G,27,"6'4""",186,LAL,13,29,44.80%,Unrestricted,"$2,750,000 ",,https://www.youtube.com/embed/pmp5q5MQoHk
+<img src='tucker.jpg' height='80'></img>,P.J. Tucker,F,36,"6'5""",245,MIL,13,49,26.50%,Unrestricted,"$7,969,537 ",,https://www.youtube.com/embed/qEA-JAZIMAI
+<img src='brown.png' height='80'></img>,Sterling Brown,G-F,26,"6'5""",219,HOU,13,33,39.40%,Unrestricted,"$1,678,854 ",,https://www.youtube.com/embed/_EEBoGTK_Cg
+<img src='davis.png' height='80'></img>,Terence Davis,G,24,"6'4""",201,SAC,13,24,54.20%,Restricted,"$1,208,146 ",,https://www.youtube.com/embed/ZUqJoTBoT8o
+<img src='ojeleye.png' height='80'></img>,Semi Ojeleye,F,26,"6'6""",240,BOS,13,39,33.30%,Unrestricted,"$1,429,551 ",,https://www.youtube.com/embed/9Rt7Cu1RZ54
+<img src='svi.png' height='80'></img>,Svi Mykhailiuk,G-F,24,"6'7""",205,OKC,12,33,36.40%,Restricted,"$1,522,802 ",,https://www.youtube.com/embed/pp7GwB-fnuo
+<img src='hill.png' height='80'></img>,Solomon Hill,F,30,"6'6""",226,ATL,12,41,29.30%,Unrestricted,"$2,174,318 ",,https://www.youtube.com/embed/PhgQtk4sXSY
+<img src='johnson.png' height='80'></img>,Tyler Johnson,G,29,"6'3""",186,BKN,12,27,44.40%,Unrestricted,"$2,028,594 ",,https://www.youtube.com/embed/WnKRpEJoQ6k
+<img src='ariza.png' height='80'></img>,Trevor Ariza,F,35,"6'8""",215,MIA,12,39,30.80%,Unrestricted,"$12,500,000 ",,https://www.youtube.com/embed/dB10bt0uCCI
+<img src='mills.png' height='80'></img>,Patty Mills,G,32,"6'1""",180,SAS,12,28,42.90%,Unrestricted,"$12,000,000 ",,https://www.youtube.com/embed/5L5t_r3G7EE
+<img src='morris.png' height='80'></img>,Markieff Morris,F,31,"6'9""",245,LAL,11,29,37.90%,Unrestricted,"$2,331,593 ",,https://www.youtube.com/embed/EbgmPyexEoM
+<img src='sjohnson.png' height='80'></img>,Stanley Johnson,G-F,25,"6'6""",242,TOR,11,29,37.90%,Unresticted,"$3,713,575 ",,https://www.youtube.com/embed/ZgklwduRKnE
+<img src='scott.png' height='80'></img>,Mike Scott,F,32,"6'7""",238,PHI,11,25,44.00%,Unrestricted,"$4,900,000 ",,https://www.youtube.com/embed/ju_XikvDTcg
+<img src='patterson.png' height='80'></img>,Patrick Patterson,F,32,"6'8""",235,LAC,11,27,40.70%,Unrestricted,"$3,077,704 ",,https://www.youtube.com/embed/dO7tAcHaLhY
+<img src='graham.png' height='80'></img>,Devonte' Graham,G,26,"6'1""",195,CHA,11,23,47.80%,Restricted,"$1,356,392 ",,https://www.youtube.com/embed/JFvomitbBO8
+<img src='collins.png' height='80'></img>,John Collins,F-C,23,"6'9""",235,ATL,11,36,30.60%,Restricted,"$2,764,966 ",,https://www.youtube.com/embed/5gDqRvzoWKM
+<img src='rjackson.png' height='80'></img>,Reggie Jackson,G,31,"6'2""",208,LAC,11,35,31.40%,Unrestricted,"$2,331,593 ",,https://www.youtube.com/embed/5JO_Zc5iVEQ
+<img src='ellington.png' height='80'></img>,Wayne Ellington,G,33,"6'4""",207,DET,10,33,30.30%,Unrestricted,"$2,564,753 ",,https://www.youtube.com/embed/CO_kR_2WlEE
+<img src='leonard.png' height='80'></img>,Kawhi Leonard,F,29,"6'7""",225,LAC,10,19,52.60%,Player Option,"$34,379,100 ",,https://www.youtube.com/embed/iQzmWfSm-jo
+<img src='olynyk.png' height='80'></img>,Kelly Olynyk,F-C,30,"6'11""",240,HOU,10,24,41.70%,Unrestricted,"$12,500,000 ",,https://www.youtube.com/embed/PQI3xlWl9Ik
+<img src='barton.png' height='80'></img>,Will Barton,G,30,"6'6""",181,DEN,10,22,45.50%,Player Option,"$13,250,000 ",,https://www.youtube.com/embed/az5isozZYVs
+<img src='payton.png' height='80'></img>,Elfrid Payton,G,27,"6'3""",195,NYK,9,34,26.50%,Unresticted,"$4,767,000 ",,https://www.youtube.com/embed/JMq5VJpCvQU
+<img src='fournier.png' height='80'></img>,Evan Fournier,G-F,28,"6'7""",205,BOS,9,14,64.30%,Unrestricted,"$17,000,000 ",,https://www.youtube.com/embed/gKswc0J3nmk
+<img src='monk.png' height='80'></img>,Malik Monk,G,23,"6'3""",200,CHA,8,15,53.30%,Restricted,"$3,931,512 ",,https://www.youtube.com/embed/bmm17ElPysY
+<img src='neto.png' height='80'></img>,Raul Neto,G,29,"6'1""",180,WAS,8,26,30.80%,Unrestricted,"$1,882,867 ",,https://www.youtube.com/embed/li4PHWt9l5Y
+<img src='millsap.png' height='80'></img>,Paul Millsap,F,36,"6'7""",257,DEN,8,16,50.00%,Unrestricted,"$10,000,000 ",,https://www.youtube.com/embed/it461b4CG6o
+<img src='valentine.png' height='80'></img>,Denzel Valentine,G,27,"6'4""",220,CHI,8,26,30.80%,Unrestricted,"$4,642,800 ",,https://www.youtube.com/embed/BwKs3pekvoY
+<img src='dragic.png' height='80'></img>,Goran Dragic,G,35,"6'3""",190,MIA,8,16,50.00%,Team Option,"$18,000,000 ",,https://www.youtube.com/embed/D4zMOwmuuJM
+<img src='strus.png' height='80'></img>,Max Strus,G-F,25,"6'5""",215,MIA,8,18,44.40%,Restricted,"$647,098 ",,https://www.youtube.com/embed/GQmR_ZiuK7I
+<img src='harkless.png' height='80'></img>,Maurice Harkless,G-F,28,"6'7""",220,SAC,8,18,44.40%,Unrestricted,"$3,623,000 ",,https://www.youtube.com/embed/HChIcfIlsfI
+<img src='williams.png' height='80'></img>,Lou Williams,G,34,"6'1""",175,ATL,8,18,44.40%,Unrestricted,"$8,000,000 ",,https://www.youtube.com/embed/9y6SGRNL4m4
+<img src='nunn.png' height='80'></img>,Kendrick Nunn,G,25,"6'2""",190,MIA,8,26,30.80%,Restricted,"$1,028,483 ",,https://www.youtube.com/embed/d8MBiqqy7Iw
+<img src='galloway.png' height='80'></img>,Langston Galloway,G,29,"6'1""",200,PHX,8,25,32.00%,Unrestricted,"$2,028,594 ",,https://www.youtube.com/embed/cX7u5hc7irs
+<img src='jamgreen.png' height='80'></img>,JaMychal Green,F-C,30,"6'8""",227,DEN,7,19,36.80%,Player Option,"$7,379,754 ",,https://www.youtube.com/embed/GlUZsO53uLI
+<img src='sumner.png' height='80'></img>,Edmond Sumner,G,25,"6'4""",196,IND,7,14,50.00%,Player Option,"$2,160,000 ",,https://www.youtube.com/embed/A57-EPD__9M
+<img src='coffey.png' height='80'></img>,Amir Coffey,G-F,24,"6'7""",210,LAC,7,14,50.00%,Restricted,"$578,842 ",,https://www.youtube.com/embed/QHAZlmOKwoQ
+<img src='ntilikina.png' height='80'></img>,Frank Ntilikina,G,22,"6'4""",200,NYK,7,11,63.60%,Restricted,"$4,672,305 ",,https://www.youtube.com/embed/ghPFCmjryoM
+<img src='clark.png' height='80'></img>,Gary Clark,F,26,"6'6""",225,PHI,7,21,33.30%,Restricted,"$2,018,458 ",,https://www.youtube.com/embed/wqYc6wCRIfs
+<img src='nwaba.png' height='80'></img>,David Nwaba,G-F,28,"6'5""",219,HOU,6,19,31.60%,Unrestricted,1382681,,https://www.youtube.com/embed/d3yGCQj7lgU
+<img src='porter.png' height='80'></img>,Otto Porter Jr.,F,28,"6'8""",198,ORL,6,11,54.50%,Unrestricted,"$26,631,244 ",,https://www.youtube.com/embed/Cv5UwERoWvU
+<img src='mcconell.png' height='80'></img>,T.J. McConnell,G,29,"6'1""",190,IND,6,14,42.90%,Unrestricted,3500000,,https://www.youtube.com/embed/jokt1kcXxHY
+<img src='jjohnson.png' height='80'></img>,James Johnson,F,34,"6'7""",240,NOP,6,30,20.00%,Unrestricted,14431700,,https://www.youtube.com/embed/-20b9u2s73k
+<img src='mcdermott.png' height='80'></img>,Doug McDermott,F,29,"6'7""",225,IND,5,14,35.70%,Unrestricted,7333333,,https://www.youtube.com/embed/PEAQUi2iJ-s
+<img src='vincent.png' height='80'></img>,Gabe Vincent,G,25,"6'3""",200,MIA,5,18,27.80%,Restricted,660750,,https://www.youtube.com/embed/TaaDwfpFvKY
+<img src='theis.png' height='80'></img>,Daniel Theis,F-C,29,"6'8""",245,CHI,5,20,25.00%,Unrestricted,5000000,,https://www.youtube.com/embed/CGI7JDDOH8A
+<img src='teague.png' height='80'></img>,Jeff Teague,G,33,"6'3""",195,MIL,5,8,62.50%,Unrestricted,808073,,https://www.youtube.com/embed/YXhcLxYnDEQ
+<img src='birch.png' height='80'></img>,Khem Birch,C,28,"6'9""",233,TOR,5,13,38.50%,Unrestricted,425463,,https://www.youtube.com/embed/SYg-_S6HiOA
+<img src='brooks.png' height='80'></img>,Armoni Brooks,G,23,"6'3""",195,HOU,5,13,38.50%,Restricted,898310,,https://www.youtube.com/embed/qxLbovrPaj8
+<img src='paul.png' height='80'></img>,Chris Paul,G,36,"6'0""",175,PHX,5,10,50.00%,Player Option,39932648,,https://www.youtube.com/embed/ZKY0SVJ-KSI
+<img src='diallo.png' height='80'></img>,Hamidou Diallo,G,22,"6'5""",202,DET,5,10,50.00%,Restricted,1306392,,https://www.youtube.com/embed/Ptmn2SckoIA
+<img src='jagreen.png' height='80'></img>,Javonte Green,G-F,27,"6'4""",205,CHI,5,8,62.50%,Restricted,1208146,,https://www.youtube.com/embed/cHtntQaSrFI
+<img src='richardson.png' height='80'></img>,Josh Richardson,G,27,"6'5""",200,DAL,5,22,22.70%,Player Option,10491264,,https://www.youtube.com/embed/t-W8Q5vfVq0
+<img src='dieng.png' height='80'></img>,Gorgui Dieng,C,31,"6'10""",252,SAS,4,8,50.00%,Unrestricted,1000000,,https://www.youtube.com/embed/ruqlB7dGXnc
+<img src='melli.png' height='80'></img>,Nicolo Melli,F,30,"6'9""",236,DAL,4,11,36.40%,Restricted,4000000,,https://www.youtube.com/embed/A_5hDBY3KNw
+<img src='payne.png' height='80'></img>,Cameron Payne,G,26,"6'1""",183,PHX,4,9,44.40%,Unrestricted,1086650,,https://www.youtube.com/embed/pa-fSdiNruM
+<img src='craig.png' height='80'></img>,Torrey Craig,F,30,"6'7""",221,PHX,4,20,20.00%,Unrestricted,1678854,,https://www.youtube.com/embed/tty7oGiikZU
+<img src='bonga.png' height='80'></img>,Isaac Bonga,G,21,"6'8""",180,WAS,4,15,26.70%,Restricted,1360238,,https://www.youtube.com/embed/vCofMfcEe80
+<img src='smith.png' height='80'></img>,Ish Smith,G,32,"6'0""",175,WAS,4,8,50.00%,Unrestricted,6000000,,https://www.youtube.com/embed/ijlWAAC4zgU
+<img src='arcidiacono.png' height='80'></img>,Ryan Arcidiacono,G,27,"6'3""",195,CHI,4,7,57.10%,Team Option,3000000,,https://www.youtube.com/embed/S5zn3lA-l5w
+<img src='griffin.png' height='80'></img>,Blake Griffin,F,32,"6'9""",250,BKN,4,9,44.40%,Unrestricted,1229676,,https://www.youtube.com/embed/8Qt2rTSkj9E
+<img src='bradley.png' height='80'></img>,Avery Bradley,G,30,"6'3""",180,HOU,4,12,33.30%,Team Option,5635000,,https://www.youtube.com/embed/jkp-6PYHPnw
+<img src='bbrown.png' height='80'></img>,Bruce Brown,G-F,24,"6'4""",202,BKN,4,21,19.00%,Restricted,1306392,,https://www.youtube.com/embed/PDYceUBHNSM
+<img src='horton-tucker.png' height='80'></img>,Talen Horton-Tucker,G,20,"6'4""",234,LAL,4,16,25.00%,Restricted,1208146,,https://www.youtube.com/embed/MPFB8yYJyrs
+<img src='wmatthews.png' height='80'></img>,Wesley Matthews,G,34,"6'4""",220,LAL,4,20,20.00%,Unrestricted,3623000,,https://www.youtube.com/embed/TJlQlAzhjLc
+<img src='wilson.png' height='80'></img>,D.J. Wilson,F,25,"6'10""",231,HOU,4,14,28.60%,Restricted,3044680,,https://www.youtube.com/embed/PsbwChdH6vs
+<img src='mhoward.png' height='80'></img>,Markus Howard,G,22,"5'10""",175,DEN,3,3,100.00%,Restricted,535294,,https://www.youtube.com/embed/hWd7n6bOVgY
+<img src='bjelica.png' height='80'></img>,Nemanja Bjelica,F,33,"6'10""",234,MIA,3,8,37.50%,Unrestricted,6825000,,https://www.youtube.com/embed/fVL3Z8__SdQ
+<img src='moore.png' height='80'></img>,E'Twaun Moore,G,32,"6'3""",191,PHX,3,4,75.00%,Unrestricted,2331593,,https://www.youtube.com/embed/tcPFc1sSUWA
+<img src='knight.png' height='80'></img>,Nathan Knight,F-C,23,"6'10""",253,ATL,3,11,27.30%,Restricted,522989,,https://www.youtube.com/embed/zAoWTN0Hk8E
+<img src='lowry.png' height='80'></img>,Kyle Lowry,G,35,"6'0""",196,TOR,3,7,42.90%,Unrestricted,30500000,,https://www.youtube.com/embed/x8ONZSent4o
+<img src='derozan.png' height='80'></img>,DeMar DeRozan,G-F,31,"6'6""",220,SAS,3,11,27.30%,Unrestricted,27800000,,https://www.youtube.com/embed/2zkN7DCpngI
+<img src='rivers.png' height='80'></img>,Austin Rivers,G,28,"6'4""",200,DEN,3,17,17.60%,Unrestricted,2271991,,https://www.youtube.com/embed/Fww65_QuDMw
+<img src='wagner.png' height='80'></img>,Moritz Wagner,F-C,24,"6'11""",245,ORL,3,10,30.00%,Restricted,221995,,https://www.youtube.com/embed/xR--Yd1q76w
+<img src='lamb.png' height='80'></img>,Anthony Lamb,F,23,"6'6""",227,HOU,3,9,33.30%,Restricted,215330,,https://www.youtube.com/embed/s1N1LeKOxg4
+<img src='mclaughlin.png' height='80'></img>,Jordan McLaughlin,G,25,"5'11""",185,MIN,3,8,37.50%,Restricted,503760,,https://www.youtube.com/embed/zJyoyrKQLKg
+<img src='ennis.png' height='80'></img>,James Ennis III,F,30,"6'6""",215,ORL,3,13,23.10%,Unrestricted,3300000,,https://www.youtube.com/embed/bRdu4XIjQxA
+<img src='len.png' height='80'></img>,Alex Len,C,28,"7'0""",250,WAS,2,6,33.30%,Unrestricted,1697755,,https://www.youtube.com/embed/KjEX7KLPr7c
+<img src='batesdiop.png' height='80'></img>,Keita Bates-Diop,F,25,"6'8""",229,SAS,2,7,28.60%,Restricted,"$449,115 ",,https://www.youtube.com/embed/Qht6r8qVTOs
+<img src='jackson.png' height='80'></img>,Justin Jackson,F,26,"6'8""",220,MIL,2,6,33.30%,Restricted,"$920,000 ",,https://www.youtube.com/embed/LhrGzl-EvBQ
+<img src='brazdikis.png' height='80'></img>,Ignas Brazdeikis,F,22,"6'6""",221,ORL,2,4,50.00%,Restricted,49510,,https://www.youtube.com/embed/xS4t0QTdcvY
+<img src='lee.png' height='80'></img>,Saben Lee,G,21,"6'2""",183,DET,2,2,100.00%,Restricted,"$1,489,065 ",,https://www.youtube.com/embed/uPhXFUE3wtE
+<img src='goodwin.png' height='80'></img>,Brandon Goodwin,G,25,"6'0""",180,ATL,2,8,25.00%,Restricted,1112166,,https://www.youtube.com/embed/ZJlIT6l37Pg
+<img src='ilyasova.png' height='80'></img>,Ersan Ilyasova,F,34,"6'9""",235,UTA,2,6,33.30%,Unrestricted,1194542,,https://www.youtube.com/embed/FahxmEAF0AQ
+<img src='lyles.png' height='80'></img>,Trey Lyles,F,25,"6'9""",234,SAS,2,3,66.70%,Unrestricted,5500000,,https://www.youtube.com/embed/R9SrR32t-sc
+<img src='thomas.png' height='80'></img>,Brodric Thomas,G,24,"6'5""",185,CLE,2,7,28.60%,Restricted,"$898,310 ",,https://www.youtube.com/embed/zGS5ejdQX-w
+<img src='cousins.png' height='80'></img>,DeMarcus Cousins,C,30,"6'10""",170,LAC,2,7,28.60%,Unrestricted,"$335,366 ",,https://www.youtube.com/embed/xHk2MigHQQk
+<img src='rose.png' height='80'></img>,Derrick Rose,G,32,"6'2""",200,NYK,2,7,28.60%,Unrestricted,7500000,,https://www.youtube.com/embed/pPUdY_lyQH0
+<img src='guy.png' height='80'></img>,Kyle Guy,G,23,"6'1""",167,SAC,2,8,25.00%,Restricted,"$1,489,065 ",,https://www.youtube.com/embed/42mZy7CDVLM
+<img src='randle.png' height='80'></img>,Chasson Randle,G,28,"6'2""",185,ORL,2,8,25.00%,Unrestricted,"$1,030,312 ",,https://www.youtube.com/embed/ZUm0C9VEzRk
+<img src='james.png' height='80'></img>,Mike James,G,30,"6'1""",175,BKN,2,3,66.70%,Unrestricted,9902,,https://www.youtube.com/embed/Tjviybco-U4
+<img src='antetokounmpo.png' height='80'></img>,Thanasis Antetokounmpo,F,28,"6'6""",219,MIL,2,6,33.30%,Restricted,1573645,,https://www.youtube.com/embed/jtjRyGLdA3A
+<img src='thornwell.png' height='80'></img>,Sindarius Thornwell,G,26,"6'4""",215,ORL,2,7,28.60%,Restricted,11499,,https://www.youtube.com/embed/D3WzGINjGL8
+<img src='forrest.png' height='80'></img>,Trent Forrest,G,23,"6'4""",210,UTA,2,8,25.00%,Restricted,470690,,https://www.youtube.com/embed/t1VGz3L-xQE
+<img src='brantley.png' height='80'></img>,Jarrell Brantley,F,25,"6'5""",250,UTA,2,4,50.00%,Restricted,"$510,586 ",,https://www.youtube.com/embed/HwYS8BkDmfg
+<img src='morgan.png' height='80'></img>,Juwan Morgan,F,24,"6'7""",232,UTA,1,2,50.00%,Restricted,"$1,132,018 ",,https://www.youtube.com/embed/o245vUUpIaA
+<img src='dinwiddie.png' height='80'></img>,Spencer Dinwiddie,G,28,"6'5""",215,BKN,1,1,100.00%,Player Option,"$11,454,048 ",,https://www.youtube.com/embed/0y62zJ9uzow
+<img src='wanamaker.png' height='80'></img>,Brad Wanamaker,G,31,"6'3""",210,CHA,1,1,100.00%,Unrestricted,"$2,250,000 ",,https://www.youtube.com/embed/t9usoByiqCw
+<img src='nunnally.png' height='80'></img>,James Nunnally,F,30,"6'7""",205,NOP,1,2,50.00%,Restricted,"$107,674 ",,https://www.youtube.com/embed/FwtvzzPK3UI
+<img src='tillie.png' height='80'></img>,Killian Tillie,F-C,23,"6'9""",220,MEM,1,6,16.70%,Restricted,"$449,115 ",,https://www.youtube.com/embed/xlMvB2qVvf8
+<img src='ibaka.png' height='80'></img>,Serge Ibaka,F,31,"6'10""",235,LAC,1,6,16.70%,Player Option,"$9,489,450 ",,https://www.youtube.com/embed/M3Q6K5wBLfU
+<img src='hinton.png' height='80'></img>,Nate Hinton,G-F,22,"6'5""",210,DAL,1,2,50.00%,Restricted,"$449,115 ",,https://www.youtube.com/embed/efh8vBW2Ppo
+<img src='giles.png' height='80'></img>,Harry Giles III,F-C,23,"6'11""",240,POR,1,3,33.30%,Unrestricted,"$1,678,854 ",,https://www.youtube.com/embed/srsgo6QlPTo
+<img src='blevins.png' height='80'></img>,Keljin Blevins,G,25,"6'4""",200,POR,1,3,33.30%,Restricted,"$1,445,697 ",,https://www.youtube.com/embed/YOZEdkd-6-Q
+<img src='allen.png' height='80'></img>,Jarrett Allen,C,23,"6'11""",243,CLE,1,4,25.00%,Restricted,"$2,508,646 ",,https://www.youtube.com/embed/vGGzdhdss60
+<img src='harrison.png' height='80'></img>,Shaquille Harrison,G,27,"6'7""",190,DEN,1,6,16.70%,Restricted,"$898,310 ",,https://www.youtube.com/embed/R-bQn9yT_fE
+<img src='jefferies.png' height='80'></img>,DaQuan Jeffries,G-F,23,"6'5""",230,SAS,1,7,14.30%,Club Option,"$1,445,697 ",,https://www.youtube.com/embed/ARtXROeMpLM
+<img src='howard.png' height='80'></img>,Dwight Howard,F-C,35,"6'10""",265,PHI,1,2,50.00%,Unresticted,"$2,564,753 ",,https://www.youtube.com/embed/d3hSpanyhUo
+<img src='waters.png' height='80'></img>,Tremont Waters,G,23,"5'10""",175,BOS,1,3,33.30%,Restricted,"$110,998 ",,https://www.youtube.com/embed/VzxRMZkT3so
+<img src='mays.png' height='80'></img>,Skylar Mays,G,23,"6'4""",205,ATL,1,5,20.00%,Restricted,"$532,218 ",,https://www.youtube.com/embed/11rqE29BJmk
+<img src='kornet.png' height='80'></img>,Luke Kornet,F-C,25,"7'2""",250,BOS,1,5,20.00%,Unrestricted,"$2,250,000 ",,https://www.youtube.com/embed/4yHqjqi1sfA
+<img src='smcdermott.png' height='80'></img>,Sean McDermott,F,24,"6'6""",195,MEM,1,4,25.00%,Restricted,"$449,115 ",,https://www.youtube.com/embed/i-mI610V_28

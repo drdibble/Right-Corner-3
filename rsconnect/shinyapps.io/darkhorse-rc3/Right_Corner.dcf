@@ -1,0 +1,13 @@
+name: Right_Corner
+title: Right_Corner
+username:
+account: darkhorse-rc3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4320873
+bundleId: 4799855
+url: https://darkhorse-rc3.shinyapps.io/Right_Corner/
+when: 1625757515.76053
+lastSyncTime: 1625757515.76055
+asMultiple: FALSE
+asStatic: FALSE
